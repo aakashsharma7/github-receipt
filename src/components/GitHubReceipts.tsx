@@ -216,7 +216,7 @@ export default function GitHubReceipts() {
         <div className="flex justify-between items-center">
           <div className="text-sm text-muted-foreground">
             <a
-              href="https://github.com/VishwaGauravIn/github-receipt"
+              href="https://github.com/aakashsharma7/github-receipt"
               target="_blank"
               rel="norefferer noopener"
               className="hover:underline"
